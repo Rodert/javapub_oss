@@ -6,3 +6,9 @@ ikon 存放平日文章视频图片
 
 other 存放其他图片
 
+
+# 案例
+
+![](https://ghproxy.com/https://raw.githubusercontent.com/Rodert/JavaPub-Interview/main/src/sc/spring/spring-javapub-java.png?raw=true)
+
+
