@@ -1,10 +1,13 @@
 # javapub_oss
 javapub的图床
 
+[common](common) 公共配图：个人信息；公众号信息等。
 
-ikon 存放平日文章视频图片
+[learn-path](learn-path) 学习路线图。
 
-other 存放其他图片
+[ikon](ikon) 文章图片：存放平日文章视频图片。
+
+[other](other) 存放其他图片：推广图片。
 
 
 # 案例
