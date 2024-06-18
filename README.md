@@ -17,3 +17,7 @@ javapub的图床
 ![](https://ghproxy.com/https://raw.githubusercontent.com/Rodert/javapub_oss/main/common/javapub-debackground.png?raw=true)
 
 
+
+服务站点： http://javapub.net.cn/
+
+
