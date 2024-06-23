@@ -21,3 +21,7 @@ javapub的图床
 服务站点： http://javapub.net.cn/
 
 
+
+
+> 所有图片免费试用，注明出处即可。
+
