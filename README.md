@@ -9,6 +9,8 @@ javapub的图床
 
 [other](other) 存放其他图片：推广图片。
 
+[image-text](image-text) 短视频-图文。
+
 
 # 案例
 
