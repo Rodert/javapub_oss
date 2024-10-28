@@ -10,7 +10,7 @@
         <mxCell id="kz6jPH8bHdxoqNKELwlD-2" value="Amazon RDS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rds;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="140" y="150" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="kz6jPH8bHdxoqNKELwlD-3" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;" edge="1" parent="1" source="kz6jPH8bHdxoqNKELwlD-2" target="kz6jPH8bHdxoqNKELwlD-1">
+        <mxCell id="kz6jPH8bHdxoqNKELwlD-3" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=0;dashed=1;" edge="1" parent="1" source="kz6jPH8bHdxoqNKELwlD-2" target="kz6jPH8bHdxoqNKELwlD-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
