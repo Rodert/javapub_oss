@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="第 1 页" id="wM19efWY_wCf7CkMUwO7">
-    <mxGraphModel dx="2074" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,7 +170,7 @@
         </mxCell>
         <mxCell id="pKUqhJFQ7Gz_laTUtSQL-53" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="981" as="sourcePoint" />
+            <mxPoint x="400" y="1040" as="sourcePoint" />
             <mxPoint x="400" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -230,6 +230,42 @@
         </mxCell>
         <mxCell id="pKUqhJFQ7Gz_laTUtSQL-76" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;反向代理&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="510" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-77" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;作&lt;br&gt;用&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=0;fillColor=#66B2FF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="80" y="840" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-78" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;应&lt;br&gt;用&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=0;fillColor=#66B2FF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="80" y="900" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-79" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;特&lt;br&gt;点&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=0;fillColor=#66B2FF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="80" y="960" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-80" value="&lt;span style=&quot;color: rgb(26, 32, 41); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;代表客户端向服务器发送请求，获取资源后返回给客户端。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="123" y="845" width="257" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-81" value="&lt;span style=&quot;color: rgb(26, 32, 41); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;绕过网络限制、访问受控资源、缓存加速、隐私保护等。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="119.99999999999999" y="905" width="251.8" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-82" value="&lt;span style=&quot;color: rgb(26, 32, 41); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;客户端知道代理的存在，请求由客户端发起；代理服务器对客户端透明，对服务器非透明。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="120" y="970" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-83" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;作&lt;br&gt;用&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=0;fillColor=#66B2FF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="840" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-84" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;应&lt;br&gt;用&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=0;fillColor=#66B2FF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="900" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-85" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;特&lt;br&gt;点&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=0;fillColor=#66B2FF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="960" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-86" value="&lt;span style=&quot;color: rgb(26, 32, 41); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;代表服务器接收客户端请求，根据规则转发给内部服务器，并将响应返回给客户端。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="473" y="845" width="287" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-87" value="&lt;span style=&quot;color: rgb(26, 32, 41); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;负载均衡、缓存优化、安全防护、隐藏内部服务器架构等。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="475" y="905" width="260" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-88" value="&lt;span style=&quot;color: rgb(26, 32, 41); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;客户端不知道代理的存在，请求直接发送到反向代理；代理服务器对客户端透明，对服务器透明或半透明。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="475" y="970" width="295" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
