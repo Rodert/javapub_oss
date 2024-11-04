@@ -1,9 +1,55 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="第 1 页" id="wM19efWY_wCf7CkMUwO7">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-4" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="127" y="230" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-5" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="300" y="230" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-6" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="214" y="230" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-7" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.d;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="208" y="380" width="72" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Watcher.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="196" y="540" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-13" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150" width="10" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-14" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="135.2" y="690" width="33.6" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-15" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="308.2" y="690" width="33.6" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-16" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.42;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;flowAnimation=1;fillColor=#f8cecc;strokeColor=#b85450;entryX=-0.028;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pKUqhJFQ7Gz_laTUtSQL-4" target="pKUqhJFQ7Gz_laTUtSQL-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-17" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.34;exitY=1.08;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.319;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;flowAnimation=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="pKUqhJFQ7Gz_laTUtSQL-6" target="pKUqhJFQ7Gz_laTUtSQL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-18" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.24;exitY=1.04;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.88;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;flowAnimation=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="pKUqhJFQ7Gz_laTUtSQL-5" target="pKUqhJFQ7Gz_laTUtSQL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-20" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.045;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.67;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;flowAnimation=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" edge="1" parent="1" source="pKUqhJFQ7Gz_laTUtSQL-7" target="pKUqhJFQ7Gz_laTUtSQL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-21" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.02;exitY=0.06;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.67;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;flowAnimation=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="pKUqhJFQ7Gz_laTUtSQL-7" target="pKUqhJFQ7Gz_laTUtSQL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pKUqhJFQ7Gz_laTUtSQL-22" style="rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.67;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;flowAnimation=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="pKUqhJFQ7Gz_laTUtSQL-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
