@@ -202,6 +202,15 @@
         <mxCell id="LHPV1BapTMoTrjXKWGj8-55" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Working Directory&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="105" y="280" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LHPV1BapTMoTrjXKWGj8-59" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Staging Are&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="275" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LHPV1BapTMoTrjXKWGj8-61" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Local Repositon&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="435" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LHPV1BapTMoTrjXKWGj8-62" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Remote Repository&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="610" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
