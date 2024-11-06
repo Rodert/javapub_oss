@@ -359,6 +359,9 @@
         <mxCell id="hMgspPJemzrpV8L7LL4D-133" value="&lt;b&gt;4种常用队列&lt;/b&gt;&lt;br&gt;&lt;br&gt;一张图让你看明白4种常用队列 #干货收藏 #图解 #计算机 #javapub" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="157" y="40" width="523" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hMgspPJemzrpV8L7LL4D-134" value="JavaPub技术团队" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="264" y="560" width="300" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
