@@ -314,6 +314,12 @@
         <mxCell id="hMgspPJemzrpV8L7LL4D-111" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;实现方式&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="100" y="850" width="53.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hMgspPJemzrpV8L7LL4D-112" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/IoT_Hub.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="146" y="890" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="hMgspPJemzrpV8L7LL4D-113" value="大顶堆 小顶堆" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="130.5" y="970" width="95" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
