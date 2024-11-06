@@ -40,8 +40,8 @@
             <mxPoint x="290" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LHPV1BapTMoTrjXKWGj8-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;用户端&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="290" y="150" width="110" height="30" as="geometry" />
+        <mxCell id="LHPV1BapTMoTrjXKWGj8-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;用户端&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LHPV1BapTMoTrjXKWGj8-9" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;服务端如GitHub&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="590" y="150" width="170" height="30" as="geometry" />
