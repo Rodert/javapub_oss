@@ -180,9 +180,6 @@
         <mxCell id="ezjURIExCmXeSgJhfd-B-33" value="&lt;div&gt;3、&lt;span style=&quot;background-color: initial;&quot;&gt;返回二&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;维码ID&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="488" y="380" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ezjURIExCmXeSgJhfd-B-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="ezjURIExCmXeSgJhfd-B-34" target="ezjURIExCmXeSgJhfd-B-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ezjURIExCmXeSgJhfd-B-34" value="4、展示二维码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="494" y="450" width="100" height="30" as="geometry" />
         </mxCell>
