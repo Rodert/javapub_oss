@@ -216,6 +216,15 @@
         <mxCell id="ezjURIExCmXeSgJhfd-B-48" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;8、生成临时token&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;二维码ID与身份&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;信息绑&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;定&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="655" y="620" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ezjURIExCmXeSgJhfd-B-50" value="手机端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="153" y="135" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezjURIExCmXeSgJhfd-B-51" value="pC端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="403" y="135" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezjURIExCmXeSgJhfd-B-52" value="服务端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="630" y="135" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
