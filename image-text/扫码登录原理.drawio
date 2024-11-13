@@ -219,7 +219,7 @@
         <mxCell id="ezjURIExCmXeSgJhfd-B-50" value="手机端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="153" y="135" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ezjURIExCmXeSgJhfd-B-51" value="pC端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="ezjURIExCmXeSgJhfd-B-51" value="PC端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="403" y="135" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ezjURIExCmXeSgJhfd-B-52" value="服务端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
