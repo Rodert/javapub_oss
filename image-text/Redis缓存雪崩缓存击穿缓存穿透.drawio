@@ -138,7 +138,7 @@
           <mxGeometry x="90" y="530" width="660" height="230" as="geometry" />
         </mxCell>
         <mxCell id="W_dNfOB0aYCIcV3kxhHt-55" value="缓存击穿" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="100" y="625" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="620" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W_dNfOB0aYCIcV3kxhHt-56" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="250" y="596.75" width="57.99" height="56.5" as="geometry" />
@@ -199,7 +199,7 @@
           <mxGeometry x="90" y="770" width="660" height="230" as="geometry" />
         </mxCell>
         <mxCell id="W_dNfOB0aYCIcV3kxhHt-72" value="缓存击穿" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="100" y="865" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="860" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W_dNfOB0aYCIcV3kxhHt-73" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="250" y="836.75" width="57.99" height="56.5" as="geometry" />
@@ -255,6 +255,18 @@
         </mxCell>
         <mxCell id="W_dNfOB0aYCIcV3kxhHt-88" value="缓存穿透的造成原因主要是查询不存在的数据，导致请求直接访问数据库，增加数据库压力。&lt;div&gt;应对策略包括使用布隆过滤器来过滤不存在的数据，以及将空结果缓存起来，设置较短的过期时间，避免对数据库的重复查询。&lt;/div&gt;" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="930" y="850" width="630" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W_dNfOB0aYCIcV3kxhHt-89" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/18/unfold-more-128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="120" y="657.4" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W_dNfOB0aYCIcV3kxhHt-90" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/18/unfold-more-128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="120" y="896.62" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W_dNfOB0aYCIcV3kxhHt-91" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/18/unfold-more-128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="120" y="426.62" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W_dNfOB0aYCIcV3kxhHt-92" value="JavaPub技术团队" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="580" y="510" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
