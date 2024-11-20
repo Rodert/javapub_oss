@@ -190,7 +190,7 @@
         <mxCell id="yfxLXpkwoaQeFSgSffvN-71" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="94" y="450" width="320" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="yfxLXpkwoaQeFSgSffvN-72" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;轮询法&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yfxLXpkwoaQeFSgSffvN-72" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;最短响应时间法&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="196" y="450" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yfxLXpkwoaQeFSgSffvN-73" value="" style="verticalLabelPosition=bottom;shadow=1;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#6c8ebf;strokeColor2=#008cff;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;" vertex="1" parent="1">
@@ -253,7 +253,7 @@
             <mxPoint x="354" y="605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yfxLXpkwoaQeFSgSffvN-87" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; face=&quot;Helvetica&quot;&gt;将请求均匀的转发给每一个服务&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="yfxLXpkwoaQeFSgSffvN-87" value="&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; data-eleid=&quot;101&quot; class=&quot;text-only&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ffb570&quot; face=&quot;Helvetica&quot;&gt;将请求发送到响应时间最短的服务器,以提供更快的响应&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="169" y="720" width="178" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yfxLXpkwoaQeFSgSffvN-88" value="&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;服务器1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
@@ -268,7 +268,7 @@
         <mxCell id="yfxLXpkwoaQeFSgSffvN-111" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="430" y="450" width="320" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="yfxLXpkwoaQeFSgSffvN-112" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;轮询法&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yfxLXpkwoaQeFSgSffvN-112" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;粘性轮询法&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="532" y="450" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yfxLXpkwoaQeFSgSffvN-113" value="" style="verticalLabelPosition=bottom;shadow=1;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#6c8ebf;strokeColor2=#008cff;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;" vertex="1" parent="1">
@@ -331,7 +331,7 @@
             <mxPoint x="690" y="605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yfxLXpkwoaQeFSgSffvN-127" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; face=&quot;Helvetica&quot;&gt;将请求均匀的转发给每一个服务&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="yfxLXpkwoaQeFSgSffvN-127" value="&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; data-eleid=&quot;25&quot; class=&quot;text-only&quot;&gt;&lt;b&gt;&lt;font color=&quot;#009900&quot; face=&quot;Helvetica&quot;&gt;将来自同一用户的连续请求发送到同一台服务器&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="505" y="720" width="178" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yfxLXpkwoaQeFSgSffvN-128" value="&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;服务器1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
@@ -346,7 +346,7 @@
         <mxCell id="yfxLXpkwoaQeFSgSffvN-131" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="94" y="770" width="320" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="yfxLXpkwoaQeFSgSffvN-132" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;轮询法&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yfxLXpkwoaQeFSgSffvN-132" value="&lt;font color=&quot;#000000&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;加权轮询法&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#d80073;strokeColor=#A50040;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="196" y="770" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yfxLXpkwoaQeFSgSffvN-133" value="" style="verticalLabelPosition=bottom;shadow=1;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#6c8ebf;strokeColor2=#008cff;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;" vertex="1" parent="1">
@@ -409,7 +409,7 @@
             <mxPoint x="354" y="925" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yfxLXpkwoaQeFSgSffvN-147" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; face=&quot;Helvetica&quot;&gt;将请求均匀的转发给每一个服务&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="yfxLXpkwoaQeFSgSffvN-147" value="&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; data-eleid=&quot;71&quot; class=&quot;text-only&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff00ff&quot; face=&quot;Helvetica&quot;&gt;权重校高的服务器将按照比例接收更多的请求&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="169" y="1040" width="178" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yfxLXpkwoaQeFSgSffvN-148" value="&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;服务器1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
@@ -424,7 +424,7 @@
         <mxCell id="yfxLXpkwoaQeFSgSffvN-151" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="430" y="770" width="320" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="yfxLXpkwoaQeFSgSffvN-152" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;轮询法&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yfxLXpkwoaQeFSgSffvN-152" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;最小连接数法&lt;/b&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e3c800;strokeColor=#B09500;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="532" y="770" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yfxLXpkwoaQeFSgSffvN-153" value="" style="verticalLabelPosition=bottom;shadow=1;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#6c8ebf;strokeColor2=#008cff;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;" vertex="1" parent="1">
@@ -487,7 +487,7 @@
             <mxPoint x="690" y="925" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yfxLXpkwoaQeFSgSffvN-167" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; face=&quot;Helvetica&quot;&gt;将请求均匀的转发给每一个服务&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="yfxLXpkwoaQeFSgSffvN-167" value="&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; data-eleid=&quot;103&quot; class=&quot;text-only&quot;&gt;&lt;font face=&quot;Helvetica&quot; color=&quot;#cccc00&quot;&gt;&lt;b&gt;把请求分配给当前连接数最少的服务器,以确保负载更均匀&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="505" y="1040" width="178" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yfxLXpkwoaQeFSgSffvN-168" value="&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;服务器1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
