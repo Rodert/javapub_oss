@@ -268,6 +268,9 @@
         <mxCell id="JDMp-ufNjeP0N2BbRh1g-97" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;Web应用程序的典型架构&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="325" y="60" width="260" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JDMp-ufNjeP0N2BbRh1g-99" value="JavaPub技术团队出品" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="83.17999999999996" y="1013" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
