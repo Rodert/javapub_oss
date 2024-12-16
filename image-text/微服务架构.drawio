@@ -242,8 +242,53 @@
         <mxCell id="TbwZooSHutACKmplQoPR-78" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="154.25" y="588" width="31.5" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-79" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="380" y="520" width="56.699999999999996" height="42" as="geometry" />
+        <mxCell id="TbwZooSHutACKmplQoPR-80" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="100" y="690" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-81" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="102.37" y="720" width="40.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-82" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="197.13" y="720" width="40.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-83" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="149.75" y="720" width="40.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-84" value="&lt;font face=&quot;Helvetica&quot;&gt;KafkaMQ集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="120" y="690" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-86" value="" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="100" y="840" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-87" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.elasticsearch;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="104.00999999999999" y="880" width="27.49" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-88" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.elasticsearch;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="203.64" y="880" width="27.49" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-89" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.elasticsearch;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="156.26" y="880" width="27.49" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-91" value="&lt;font face=&quot;Helvetica&quot;&gt;elasticsearch集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="111.13" y="840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-93" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="300" y="540" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-94" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/AzureAttestation.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="332.93" y="552" width="47.76" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-95" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-world-128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="480" y="552" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-96" value="&lt;font face=&quot;Helvetica&quot;&gt;Spring Security&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="308.24" y="600" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-97" value="&lt;font face=&quot;Helvetica&quot;&gt;OAuth2.0 认证&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="460" y="600" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-99" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.ahas_application_high_availability_service;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="298.5" y="716.3" width="46.5" height="53.7" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
