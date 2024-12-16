@@ -28,17 +28,17 @@
             <mxPoint x="760" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-5" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="TbwZooSHutACKmplQoPR-5" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="130" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-6" value="用户&lt;br&gt;访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="TbwZooSHutACKmplQoPR-6" value="用户&lt;br&gt;访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="300" y="150" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-7" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="370" y="145" width="66" height="50" as="geometry" />
+          <mxGeometry x="360.25" y="145" width="66" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-9" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_pc;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="470" y="145" width="80" height="50" as="geometry" />
+          <mxGeometry x="490" y="145" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateway_Containers.svg;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="280" y="260" width="52.93" height="50" as="geometry" />
@@ -61,8 +61,8 @@
             <mxPoint x="720" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-15" value="反向代理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="170" y="280" width="70" height="30" as="geometry" />
+        <mxCell id="TbwZooSHutACKmplQoPR-15" value="反向代理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="165" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-16" value="&lt;font face=&quot;Helvetica&quot;&gt;nginx&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="281.47" y="310" width="50" height="30" as="geometry" />
@@ -70,10 +70,10 @@
         <mxCell id="TbwZooSHutACKmplQoPR-18" value="&lt;font face=&quot;Helvetica&quot;&gt;nginx&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="528.54" y="310" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-19" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="TbwZooSHutACKmplQoPR-19" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="281.47" y="360" width="308.53" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-20" value="网关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="TbwZooSHutACKmplQoPR-20" value="网关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="405" y="360" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-21" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
@@ -113,10 +113,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-34" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="100" y="400" width="140" height="90" as="geometry" />
+        <mxCell id="TbwZooSHutACKmplQoPR-34" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="90" y="400" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-35" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="TbwZooSHutACKmplQoPR-35" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="630" y="350" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-36" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.nice_dcv;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
@@ -146,10 +146,10 @@
             <mxPoint x="680" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-44" value="&lt;font face=&quot;Helvetica&quot;&gt;Nacos注册中心&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="TbwZooSHutACKmplQoPR-44" value="&lt;font&gt;Nacos注册中心&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="635" y="357.5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-52" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="TbwZooSHutACKmplQoPR-52" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="630" y="610" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-53" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.nice_dcv;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
@@ -179,7 +179,7 @@
             <mxPoint x="680" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-59" value="&lt;font face=&quot;Helvetica&quot;&gt;Nacos配置中心&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="TbwZooSHutACKmplQoPR-59" value="&lt;font&gt;Nacos配置中心&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="635" y="617.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-60" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TbwZooSHutACKmplQoPR-52" target="TbwZooSHutACKmplQoPR-35">
@@ -188,13 +188,13 @@
             <mxPoint x="680" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-61" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="TbwZooSHutACKmplQoPR-61" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="630" y="830" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-62" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.elasticsearch;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="680" y="870" width="27.49" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-63" value="ELK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="TbwZooSHutACKmplQoPR-63" value="ELK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="670" y="840" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-64" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.log_streaming;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
@@ -228,67 +228,75 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-69" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="TbwZooSHutACKmplQoPR-69" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="281.47" y="525" width="310" height="360" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-70" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="100" y="436" width="45.24" height="38" as="geometry" />
+          <mxGeometry x="90" y="436" width="45.24" height="38" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-71" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="147.38" y="436" width="45.24" height="38" as="geometry" />
+          <mxGeometry x="137.38" y="436" width="45.24" height="38" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-72" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="194.76" y="436" width="45.24" height="38" as="geometry" />
+          <mxGeometry x="184.76" y="436" width="45.24" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-73" value="&lt;font face=&quot;Helvetica&quot;&gt;Redis集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="130" y="400" width="80" height="30" as="geometry" />
+        <mxCell id="TbwZooSHutACKmplQoPR-73" value="&lt;font&gt;Redis集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-74" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="100" y="558" width="140" height="82" as="geometry" />
+        <mxCell id="TbwZooSHutACKmplQoPR-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.5;entryY=1;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="TbwZooSHutACKmplQoPR-74" target="TbwZooSHutACKmplQoPR-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-75" value="&lt;font face=&quot;Helvetica&quot;&gt;MySQL集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="125" y="558" width="90" height="30" as="geometry" />
+        <mxCell id="TbwZooSHutACKmplQoPR-143" value="分布式&lt;br&gt;缓存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="TbwZooSHutACKmplQoPR-142">
+          <mxGeometry x="-0.1765" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-74" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="90" y="558" width="140" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-75" value="&lt;font&gt;MySQL集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="115" y="558" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-76" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="100" y="588" width="31.5" height="42" as="geometry" />
+          <mxGeometry x="90" y="588" width="31.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-77" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="208.5" y="588" width="31.5" height="42" as="geometry" />
+          <mxGeometry x="198.5" y="588" width="31.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-78" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="154.25" y="588" width="31.5" height="42" as="geometry" />
+          <mxGeometry x="144.25" y="588" width="31.5" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-80" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="100" y="690" width="140" height="80" as="geometry" />
+        <mxCell id="TbwZooSHutACKmplQoPR-80" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="90" y="690" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-81" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="102.37" y="720" width="40.5" height="30" as="geometry" />
+          <mxGeometry x="92.37" y="720" width="40.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-82" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="197.13" y="720" width="40.5" height="30" as="geometry" />
+          <mxGeometry x="187.13" y="720" width="40.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-83" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="149.75" y="720" width="40.5" height="30" as="geometry" />
+          <mxGeometry x="139.75" y="720" width="40.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-84" value="&lt;font face=&quot;Helvetica&quot;&gt;KafkaMQ集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="120" y="690" width="100" height="30" as="geometry" />
+        <mxCell id="TbwZooSHutACKmplQoPR-84" value="&lt;font&gt;KafkaMQ集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="110" y="690" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-86" value="" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="100" y="840" width="140" height="80" as="geometry" />
+        <mxCell id="TbwZooSHutACKmplQoPR-86" value="" style="whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="90" y="840" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-87" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.elasticsearch;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="104.00999999999999" y="880" width="27.49" height="30" as="geometry" />
+          <mxGeometry x="94.00999999999999" y="880" width="27.49" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-88" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.elasticsearch;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="203.64" y="880" width="27.49" height="30" as="geometry" />
+          <mxGeometry x="193.64" y="880" width="27.49" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-89" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.elasticsearch;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="156.26" y="880" width="27.49" height="30" as="geometry" />
+          <mxGeometry x="146.26" y="880" width="27.49" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-91" value="&lt;font face=&quot;Helvetica&quot;&gt;elasticsearch集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="111.13" y="840" width="120" height="30" as="geometry" />
+        <mxCell id="TbwZooSHutACKmplQoPR-91" value="&lt;font&gt;elasticsearch集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="96.13" y="840" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-93" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="TbwZooSHutACKmplQoPR-93" value="" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="300" y="540" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-94" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/AzureAttestation.svg;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
@@ -339,19 +347,19 @@
             <mxPoint x="549" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-115" value="&lt;font face=&quot;Helvetica&quot;&gt;业务集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="395" y="660" width="70" height="30" as="geometry" />
+        <mxCell id="TbwZooSHutACKmplQoPR-115" value="&lt;font&gt;业务集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="390" y="660" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-116" value="&lt;font face=&quot;Helvetica&quot;&gt;业务集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="395" y="840" width="70" height="30" as="geometry" />
+        <mxCell id="TbwZooSHutACKmplQoPR-116" value="&lt;font&gt;业务集群&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="390" y="840" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-117" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.oss_object_storage_service;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="TbwZooSHutACKmplQoPR-117" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#0050ef;strokeColor=#001DBC;shape=mxgraph.alibaba_cloud.oss_object_storage_service;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="106" y="970" width="50.699999999999996" height="38.7" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-119" value="&lt;font face=&quot;Helvetica&quot;&gt;OSS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="104.01" y="1008.7" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-120" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="TbwZooSHutACKmplQoPR-120" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280.74" y="955" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TbwZooSHutACKmplQoPR-121" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
@@ -366,14 +374,115 @@
         <mxCell id="TbwZooSHutACKmplQoPR-124" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 13px; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;kubernetes&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="384.99" y="995" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TbwZooSHutACKmplQoPR-129" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=1;exitY=0.5;exitDx=0;exitDy=0;flowAnimation=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="TbwZooSHutACKmplQoPR-129" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=1;exitY=0.5;exitDx=0;exitDy=0;flowAnimation=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="TbwZooSHutACKmplQoPR-86">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240.74" y="880" as="sourcePoint" />
             <mxPoint x="280.74" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="260.74" y="880" />
-              <mxPoint x="260.74" y="420" />
+              <mxPoint x="250" y="880" />
+              <mxPoint x="250" y="420" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-131" value="全文&lt;br&gt;检索" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="TbwZooSHutACKmplQoPR-129">
+          <mxGeometry x="-0.8562" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-135" value="消息&lt;br&gt;队列" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="TbwZooSHutACKmplQoPR-129">
+          <mxGeometry x="-0.2286" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-130" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=1;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" target="TbwZooSHutACKmplQoPR-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="730" as="sourcePoint" />
+            <mxPoint y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-132" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.005;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" edge="1" parent="1" target="TbwZooSHutACKmplQoPR-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="666" as="sourcePoint" />
+            <mxPoint x="-10" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-133" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.947;entryY=0.749;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="TbwZooSHutACKmplQoPR-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="670" as="sourcePoint" />
+            <mxPoint x="10" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="670" />
+              <mxPoint x="260" y="999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-134" value="对象存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="TbwZooSHutACKmplQoPR-133">
+          <mxGeometry x="0.8391" y="1" relative="1" as="geometry">
+            <mxPoint x="21" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-137" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;flowAnimation=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="600" as="sourcePoint" />
+            <mxPoint x="230" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-138" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=1.066;entryY=0.658;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" edge="1" parent="1" target="TbwZooSHutACKmplQoPR-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="460" as="sourcePoint" />
+            <mxPoint x="-20" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-139" value="缓存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="220" y="440" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-140" value="&lt;font face=&quot;Helvetica&quot;&gt;持久&lt;br&gt;化&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="220" y="565" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-144" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="TbwZooSHutACKmplQoPR-69" target="TbwZooSHutACKmplQoPR-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="630" as="sourcePoint" />
+            <mxPoint x="440" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="795" />
+              <mxPoint x="610" y="600" />
+              <mxPoint x="610" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-145" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=0.75;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" target="TbwZooSHutACKmplQoPR-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="493" as="sourcePoint" />
+            <mxPoint x="-40" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-146" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" target="TbwZooSHutACKmplQoPR-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="705" as="sourcePoint" />
+            <mxPoint x="-90" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-147" value="动态配置&lt;br&gt;配置隔离" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="591.47" y="660" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-148" value="服务&lt;br&gt;注册&lt;br&gt;服务&lt;br&gt;发现" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="600" y="430" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-150" value="微服务架构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="389.99" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-151" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;JavaPub技术团队出品&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1012" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-152" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TbwZooSHutACKmplQoPR-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-210" y="660" as="sourcePoint" />
+            <mxPoint x="436" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbwZooSHutACKmplQoPR-153" value="&lt;font face=&quot;Helvetica&quot;&gt;熔断降级 负载均衡&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="TbwZooSHutACKmplQoPR-152">
+          <mxGeometry x="-0.0542" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
