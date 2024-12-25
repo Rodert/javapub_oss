@@ -273,6 +273,9 @@
             <mxPoint x="346" y="512" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="b6jJAoVoaWnXoVeAViK6-102" value="&lt;font face=&quot;Helvetica&quot;&gt;JavaPub技术团队&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="70" y="580" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
