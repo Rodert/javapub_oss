@@ -270,6 +270,12 @@
         <mxCell id="IEyIXOlOGissW53sb8n7-94" value="JavaPub技术团队" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="110" y="835" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IEyIXOlOGissW53sb8n7-95" value="&lt;span style=&quot;font-family: Helvetica; font-size: 15px;&quot;&gt;memcached&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="490" y="779.69" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEyIXOlOGissW53sb8n7-96" value="&lt;font face=&quot;Helvetica&quot;&gt;redis&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="420.64" y="780" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
