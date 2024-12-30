@@ -208,6 +208,9 @@
         <mxCell id="doDWfjvMlDokcpQLiwFD-85" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;将其发送到&lt;br&gt;GitHub Action 进行构建&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="470" y="265" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="doDWfjvMlDokcpQLiwFD-86" value="&lt;font face=&quot;Helvetica&quot;&gt;JavaPub技术团队&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1050" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
