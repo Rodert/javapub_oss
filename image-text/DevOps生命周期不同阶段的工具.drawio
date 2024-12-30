@@ -213,6 +213,9 @@
         <mxCell id="0Rt4-kwdahGuhYhPBkAu-100" value="&lt;font face=&quot;Helvetica&quot;&gt;JavaPub技术团队&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="105" y="1026.62" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0Rt4-kwdahGuhYhPBkAu-103" value="DevOps生命周期不同阶段的工具" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="314" y="30" width="200" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
