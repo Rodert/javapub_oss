@@ -1,0 +1,165 @@
+<mxfile host="app.diagrams.net" modified="2023-11-01T12:00:00.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="your-etag" version="15.5.0" type="device">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="MQ幂等解决方案">
+    <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        
+        <!-- 标题 -->
+        <mxCell id="title" value="MQ消息幂等性解决方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="20" width="360" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- 生产者 -->
+        <mxCell id="producer" value="生产者" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        
+        <!-- 消息ID生成 -->
+        <mxCell id="msgIdGenerator" value="消息ID生成器&#xa;(UUID/雪花算法)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        
+        <!-- MQ -->
+        <mxCell id="mq" value="消息队列&#xa;(Kafka/RabbitMQ)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        
+        <!-- 消费者 -->
+        <mxCell id="consumer" value="消费者" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        
+        <!-- 幂等检查 -->
+        <mxCell id="idempotentCheck" value="幂等性检查" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        
+        <!-- Redis缓存 -->
+        <mxCell id="redisCache" value="Redis缓存&#xa;(消息ID + TTL)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        
+        <!-- 业务处理 -->
+        <mxCell id="businessProcess" value="业务逻辑处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        
+        <!-- 数据库 -->
+        <mxCell id="database" value="业务数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        
+        <!-- 幂等记录表 -->
+        <mxCell id="idempotentTable" value="幂等记录表&#xa;(消息ID, 状态, 时间戳)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        
+        <!-- 异常处理 -->
+        <mxCell id="exceptionHandler" value="异常处理&#xa;(重试/死信队列)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        
+        <!-- 连接线 -->
+        <!-- 生产者到消息ID生成 -->
+        <mxCell id="edge1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="producer" target="msgIdGenerator">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- 消息ID生成到MQ -->
+        <mxCell id="edge2" value="1. 生成唯一消息ID" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="msgIdGenerator" target="mq">
+          <mxGeometry x="-0.2" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="250" />
+              <mxPoint x="250" y="150" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- MQ到消费者 -->
+        <mxCell id="edge3" value="2. 消息投递" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="mq" target="consumer">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- 消费者到幂等检查 -->
+        <mxCell id="edge4" value="3. 接收消息" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="consumer" target="idempotentCheck">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- 幂等检查到Redis -->
+        <mxCell id="edge5" value="4. 检查消息ID" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" edge="1" parent="1" source="idempotentCheck" target="redisCache">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- 幂等检查到业务处理 -->
+        <mxCell id="edge6" value="5a. 首次处理" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="1" source="idempotentCheck" target="businessProcess">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- 业务处理到数据库 -->
+        <mxCell id="edge7" value="6. 更新业务数据" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" edge="1" parent="1" source="businessProcess" target="database">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- 业务处理到幂等记录表 -->
+        <mxCell id="edge8" value="7. 记录处理状态" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;flowAnimation=1;" edge="1" parent="1" source="businessProcess" target="exceptionHandler">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- 异常处理到幂等记录表 -->
+        <mxCell id="edge9" value="8. 更新幂等记录" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" edge="1" parent="1" source="exceptionHandler" target="idempotentTable">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- 幂等检查直接返回 -->
+        <mxCell id="edge10" value="5b. 重复消息直接返回" style="dashed=1;endArrow=block;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;curved=1;flowAnimation=1;" edge="1" parent="1" source="idempotentCheck">
+          <mxGeometry x="-0.3488" y="-20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="560" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="200" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- 说明框 -->
+        <mxCell id="legend" value="幂等性保障机制：&#xa;1. 消息生产时添加全局唯一ID&#xa;2. 消费前通过Redis快速检查是否重复&#xa;3. 使用数据库事务保证原子性&#xa;4. 异常情况下通过状态记录表追踪&#xa;5. 支持TTL过期策略减少存储压力" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="280" height="120" as="geometry" />
+        </mxCell>
+        
+        <!-- 优化策略框 -->
+        <mxCell id="optimizations" value="性能优化策略：&#xa;1. Redis集群提高查询性能&#xa;2. 批量消息处理&#xa;3. 异步更新幂等状态&#xa;4. 定期清理过期记录" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="280" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
